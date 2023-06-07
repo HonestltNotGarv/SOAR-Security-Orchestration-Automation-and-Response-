@@ -26,7 +26,7 @@ It includes the following features:
 
 ___Installation___
 
-download the master zip
+git clone https://github.com/HonestltNotGarv/SOAR-Security-Orchestration-Automation-and-Response-.git  { OR download the Master Zip }
 
 cd SOAR
 
