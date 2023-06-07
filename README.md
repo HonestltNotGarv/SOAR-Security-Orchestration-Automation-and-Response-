@@ -28,11 +28,16 @@ ___Installation___
 
 git clone https://github.com/HonestltNotGarv/SOAR-Security-Orchestration-Automation-and-Response-.git     { OR download the Master Zip }
 
-cd SOAR
+cd SOAR-Security-Orchestration-Automation-and-Response
 
 sudo pip3 install -r requirments.txt
 
 python3 soar.py
 
+## OR 
+
+chmod +x soar.py
+
+./soar.py
 
 
