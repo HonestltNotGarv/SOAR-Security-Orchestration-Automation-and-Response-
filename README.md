@@ -24,7 +24,7 @@ It includes the following features:
 
 ## Send Splunk Function
 
-## ~Installation~
+___~Installation~___
 
 cd SOAR
 
