@@ -26,7 +26,11 @@ It includes the following features:
 
 ___Installation___
 
+download the master zip
+
 cd SOAR
 
 sudo pip3 install -r requirments.txt
+
+
 
